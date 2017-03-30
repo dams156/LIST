@@ -1,7 +1,6 @@
 package com.example.dgivelet.list;
 
 import android.os.Bundle;
-import android.support.design.widget.BaseTransientBottomBar;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -70,6 +69,12 @@ public class MainActivity extends AppCompatActivity {
     public List<String> makeList(){
         main_list.add("Courses");
         main_list.add("Restaurants");
+        main_list.add("moto");
+        main_list.add("gros mots");
+        main_list.add("moto");
+        main_list.add("voitures");
+        main_list.add("Loto");
+        main_list.add("Loto");
         main_list.add("Loto");
         main_list.add("Prenoms");
         main_list.add("Factures");

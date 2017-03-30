@@ -7,23 +7,19 @@
         android:enabled="true"
         android:icon="@drawable/alarm"
         android:title="alarm"
-        app:showAsAction="always" />
+         />
     <item
         android:id="@+id/action_schedules"
         android:enabled="true"
         android:icon="@drawable/balance"
         android:title="balance"
-        app:showAsAction="always" />
-    <item
-        android:id="@+id/action_music"
-        android:enabled="true"
-        android:icon="@drawable/camera"
-        android:title="camera"
-        app:showAsAction="always" />
+         />
     <item
         android:id="@+id/Add"
         android:enabled="true"
         android:icon="@drawable/add"
         android:title="add"
-        app:showAsAction="always" />
+
+
+        />
 </menu>
